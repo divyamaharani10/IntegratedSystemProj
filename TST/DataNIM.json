@@ -1,0 +1,24 @@
+{
+    "DataNIM":[
+    {
+        "id" :1,
+        "NIM":18220021,
+        "NamaMahasiswa":"Divya Maharani Lazuardi"
+    },
+    {
+        "id": 2,
+        "NIM":18220047,
+        "NamaMahasiswa":"Dhiya Risalah Ghaida"
+    }, 
+    {
+        "id": 3,
+        "NIM":18220007,
+        "NamaMahasiswa":"Joanna Margareth Nauli"
+    },
+    {
+        "id": 4,
+        "NIM":18220067,
+        "NamaMahasiswa":"Tania Junardi Chua"
+    }
+    ]
+}
